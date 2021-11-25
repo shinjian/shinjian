@@ -6,7 +6,7 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<div align=center>
+<p align="center">
 [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/shinjian)](https://github.com/shinjian) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jian11300@gmail.com)](mailto:jian11300@gmail.com)
-</div>
+</p>
