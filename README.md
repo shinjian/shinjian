@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jian11300@gmail.com)](mailto:jian11300@gmail.com)
 
 ### Interest
+- Deep learning & Machine Learning
 - Opencv (Recognition Program Development)
 - Languages (C, C++, Python, Java)
 
